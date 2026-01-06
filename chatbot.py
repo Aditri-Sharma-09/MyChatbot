@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1gSZmDozr3KuPgWXiCFH2beYVjFVnIiXb
 """
 
-!pip install streamlit python-dotenv google-genai pyngrok
 
 from pyngrok import ngrok
 
