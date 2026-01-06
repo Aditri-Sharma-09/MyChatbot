@@ -1,4 +1,2 @@
 streamlit
-python-dotenv
 google-genai
-pyngrok
